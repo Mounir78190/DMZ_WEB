@@ -2,7 +2,7 @@
 
 ![pfSense](https://img.shields.io/badge/pfSense-Firewall-red)
 ![proxy-waf](https://img.shields.io/badge/proxy--waf-BunkerWeb-purple)
-![windows11pro](https://img.shields.io/badge/windows11pro-Windows%2011-blue)
+![serverweb](https://img.shields.io/badge/serverweb-Windows-blue)
 ![nginx](https://img.shields.io/badge/nginx-Web%20Server-green)
 ![linuxserver](https://img.shields.io/badge/linuxserver-Services%20Web-black)
 ![VMware](https://img.shields.io/badge/VMware-Virtualisation-orange)
@@ -32,7 +32,7 @@ flowchart TD
     
     BW["🧱 proxy-waf<br/>BunkerWeb<br/>WAF / Reverse Proxy<br/>VM Ubuntu Server"]
     
-    WIN["🖥️ windows11pro<br/>Serveur Web Windows 11 Pro"]
+    WIN["🖥️ windows<br/>Serveur Web Windows"]
     
     NGINX["🌐 nginx<br/>Nginx Windows"]
        
