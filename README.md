@@ -70,7 +70,7 @@ flowchart TD
 | **pfSense** | Pare-feu, routage, NAT, filtrage réseau |
 | **VLAN 30 - DEV / DMZ** | Zone réseau isolée dédiée aux services exposés |
 | **proxy-waf / BunkerWeb** | WAF et reverse proxy pour protéger les applications |
-| **windows11pro** | Serveur hébergeant les services web |
+| **windows** | Serveur hébergeant les services web |
 | **nginx** | Serveur web pour GTL Services et le portfolio |
 | **linuxserver** | Services web, base de données et outils applicatifs |
 | **VMware** | Plateforme de virtualisation utilisée pour l’infrastructure |
@@ -91,7 +91,7 @@ flowchart TD
 - pfSense
 - BunkerWeb
 - Nginx
-- Windows 11 Pro
+- Windows
 - Linux Server
 - VMware
 - MySQL
@@ -120,7 +120,7 @@ flowchart TD
 
 ### Systèmes
 
-- Administration Windows 11 Pro
+- Administration Windows
 - Administration Linux Ubuntu Server
 - Hébergement de services web
 - Gestion des services réseau
